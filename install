@@ -1,0 +1,8 @@
+compilar:
+
+gcc logsistema.c -o logsistema
+
+ejecutar:
+
+./logsistema
+
